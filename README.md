@@ -52,8 +52,7 @@ New set named Poop facts created
 Fri Mar 28 13:48:14 PDT 2025
 Set named Poop facts removed
 
-# UML Diagram:
-<img width="322" alt="flashcardsUML" src="https://github.students.cs.ubc.ca/CPSC210-2024W-T2/project-p1b4i/assets/30530/fbeb4f5e-4fb8-473b-832f-e1caa5dbd778">
+# UML Diagram:<img width="643" height="555" alt="uml" src="https://github.com/user-attachments/assets/c50276b3-6fc9-4f71-8e55-10abb551194b" />
 
 Looking at my UML Diagram, I think that I could have implemented some design patterns to make it look less messy and more systematic (like the Observer pattern to clean up dependancies, event handling, and interclass interactions). I think though, that having both the console UI and GUI together is part of why it looks so complicated and jumbly.
 Other than this, my FlashcardsGUI class is very long and has over 650 lines of code. It is definitely doing too much and violating the rule of one responsibility per class I definitely should have abstracted some of the methods and tasks out and made it into different methods, because almost everything is in that class. 
