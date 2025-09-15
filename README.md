@@ -1,4 +1,4 @@
-# My Personal Project
+# My Personal Project (CPSC 210 Term Project, Feb-Mar 2025)
 ## Cindy's Super Awesome Flashcards
 
 I've tried **alot** of flashcard apps this year, but I haven't been able to find one that I really like.
@@ -56,3 +56,7 @@ Set named Poop facts removed
 
 Looking at my UML Diagram, I think that I could have implemented some design patterns to make it look less messy and more systematic (like the Observer pattern to clean up dependancies, event handling, and interclass interactions). I think though, that having both the console UI and GUI together is part of why it looks so complicated and jumbly.
 Other than this, my FlashcardsGUI class is very long and has over 650 lines of code. It is definitely doing too much and violating the rule of one responsibility per class I definitely should have abstracted some of the methods and tasks out and made it into different methods, because almost everything is in that class. 
+
+rip my commit history you will be missed</3
+<img width="922" height="229" alt="image" src="https://github.com/user-attachments/assets/e9b75632-f2f8-4cad-87e8-4d649797f962" />
+
