@@ -1,0 +1,17 @@
+{"sets": [{
+    "cards": [
+        {
+            "question": "How old is she?",
+            "answer": "18",
+            "photo": "",
+            "mastery": false
+        },
+        {
+            "question": "What colour is her backpack?",
+            "answer": "Red",
+            "photo": "",
+            "mastery": false
+        }
+    ],
+    "name": "Cindy Wu Facts"
+}]}

@@ -1,0 +1,23 @@
+{
+    "sets": [
+        {
+        "name": "s1",
+        "cards": [
+            {
+                "question": "q1",
+                "answer": "a1",
+                "photo": "",
+                "mastery": false
+            },
+            {
+                "question": "q2",
+                "answer": "a2",
+                "photo": "",
+                "mastery": true
+            }
+            ]
+        }
+    ]
+    
+
+}
